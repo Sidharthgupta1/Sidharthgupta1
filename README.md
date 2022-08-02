@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
+- 📫 I'm currently working at MTSL(Motherson Technology System Limited) and profile is ORACLE FUNCTIONAL
+
 - 👯 I’m looking to collaborate on **Any Web Project**
 
 - 👨‍💻 All of my projects are available at [https://portfolio.guptasidharth45.repl.co/index.html](https://portfolio.guptasidharth45.repl.co/index.html)
